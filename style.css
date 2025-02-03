@@ -1,0 +1,12 @@
+.center{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border-radius: 15px;
+    
+}
+body{
+    background-color: rgb(23, 187, 119);
+    text-anchor:white;
+}
